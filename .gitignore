@@ -1,0 +1,5 @@
+alumni_email/protected/config/*
+alumni_email/protected/runtime/*
+alumni_email/protected/tests/*
+alumni_email/protected/data/*
+.*sw*
